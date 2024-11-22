@@ -48,7 +48,7 @@ A database of historical World Cup data, with Bash scripts enabling data import,
 Running the Projects
 * Number Guessing Game: Run the Bash script to start the game.
 ```
-./number_guessing_game.sh
+./number_guess.sh
 ```
 The script will guide you through entering a username, guessing a number, and interacting with the database to save your game statistics.
 
@@ -60,13 +60,13 @@ Follow the prompts to retrieve data about elements by atomic number or name.
 
 * Salon Appointment Scheduler: Run the Bash script to manage appointments.
 ```
-./salon_appointment_scheduler.sh
+./salon.sh
 ```
 The script allows customers to book, update, and cancel appointments, interacting with the database in real-time.
 
 * World Cup Database: Use Bash scripts to import data, perform analysis, and retrieve insights.
 ```
-./world_cup_analysis.sh
+./queries.sh
 ```
 The script will execute SQL queries to analyze World Cup data, such as retrieving winners, match statistics, etc.
 
